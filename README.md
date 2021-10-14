@@ -31,7 +31,8 @@ height="200">
 <p>in this table i am introducing myself</p>
 
 <table>
-      <tbody><tr>
+      <tbody>
+         <tr>
         <th colspan="3">Ayoub al Rached</th>
       </tr>
       <tr>
@@ -54,7 +55,8 @@ height="200">
       </tr>
       <tr>
         
-    </tbody></table>
+    </tbody>
+      </table>
 
     <p> contact me on Instagram!</p>
 
